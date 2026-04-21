@@ -1,0 +1,58 @@
+<h1 align="center">Hi there, I'm Lê Ngọc Gia Huy (HuyG) 👋</h1>
+
+<h3 align="center">AI Engineer @ Intel | Robotics & AI Alumnus @ HCMUTE | Founder of Code4Life</h3>
+
+<p align="center">
+I'm an AI Engineer passionate about building intelligent systems and sharing technical knowledge with the community. My focus is on applying AI to solve real-world problems through automated agentic workflows.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🏢 Currently an **AI Engineer at Intel**, focusing on developing **AI Agents** and **Agentic Workflows** (e.g., automating White Paper creation processes).
+- 🎓 Graduated with a degree in **Robotics and Artificial Intelligence** from Ho Chi Minh City University of Technology and Education (HCMUTE).
+- 🎥 Founder of **Code4Life** - an educational initiative sharing the *"AI Real-world Experience"* series on TikTok.
+- 🌱 Currently deep-diving into **System Design**, **Edge AI**, and enhancing technical communication in English.
+- ⚡ **Fun fact:** In my free time, I hit the gym, play volleyball, or climb the ranks in Teamfight Tactics (TFT), Valorant, and Chess.
+
+---
+
+### 🛠 Tech Stack & Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,linux,docker,git,github&perline=10" />
+  </a>
+</p>
+
+**AI Specialization:**
+- `LangGraph`, `LLMs`, `AI Agents`, `Agentic Workflows`, `Prompt Engineering`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Huy's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Huy's GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Code4Life" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
+<p align="center"><i>"Building the future with AI, one agent at a time." 🚀</i></p>
