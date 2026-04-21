@@ -29,16 +29,6 @@ I'm an AI Engineer passionate about building intelligent systems and sharing tec
 **AI Specialization:**
 - `LangGraph`, `LLMs`, `AI Agents`, `Agentic Workflows`, `Prompt Engineering`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Huy's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Huy's GitHub Streak" width="48%" />
-</p>
-
----
 
 ### 📫 Connect with me
 
