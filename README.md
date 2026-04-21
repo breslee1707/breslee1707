@@ -33,10 +33,10 @@ I'm an AI Engineer passionate about building intelligent systems and sharing tec
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/lengocgiahuy1810/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.tiktok.com/@huyg.">
+  <a href="https://www.tiktok.com/@huyg.ai">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Code4Life" />
   </a>
   <a href="mailto:giahuyworkmail@gmail.com">
